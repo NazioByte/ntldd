@@ -54,6 +54,7 @@ OPTIONS:\n\
 -r, --function-relocs Does not work\n\
 -R, --recursive       Lists dependencies recursively,\n\
                         eliminating duplicates\n\
+-C, --copy-depend     Copy dependencies to destionation\n\                        
 -D, --search-dir      Additional search directory\n\
 --list-exports        Lists exports of a module (single file only)\n\
 --list-imports        Lists imports of modules\n\
